@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello World.
+Hello World
