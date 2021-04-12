@@ -88,13 +88,13 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : 
-  researchgate     : "https://www.researchgate.net/profile/Dibyo_Dofadar" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : #"https://www.researchgate.net/profile/Dibyo_Dofadar"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "fabian.dibyo"
+  facebook         : #"fabian.dibyo"
   foursquare       :
   github           : "fabian-dibyo"
   google_plus      :
