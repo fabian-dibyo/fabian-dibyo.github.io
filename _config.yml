@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Dibyo Fabian Dofadar"
   avatar           : "IMG_4136-02.jpeg"
-  bio              : "Programmer | Tutor | ML Enthusiastic"
+  bio              : "Programmer | Tutor"
   location         : "Dhaka, Bangladesh"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : 
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Dibyo_Dofadar" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "fabian-dibyo"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
