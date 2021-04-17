@@ -17,9 +17,9 @@ Education
 * Higher Secondary Certificate, Notre Dame College, 2016
 * Secondary School Certificate, Civil Aviation High School, 2014
 
-Work experience
+Work Experience
 ======
-* [Student Tutor]{https://fabian-dibyo.github.io//teaching/1_ST_BRACU}  
+* [Student Tutor](https://fabian-dibyo.github.io//teaching/1_ST_BRACU)  
   Department of Computer Science and Engineering, BRAC University  
   September 2019 to December 2020  
   
