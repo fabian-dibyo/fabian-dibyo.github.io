@@ -11,7 +11,7 @@ location: "Dhaka, Bangladesh"
 I have been employed in the position of Student Tutor(ST)at Department of Computer Science and Engineering, BRAC University for consecutive four semesters from 26th September,2019 to 31st December,2020.
 
 
-# Major Responsibilities #
+### Major Responsibilities ###
 
 * Guiding students with the basic and advanced concepts of Java and Python programming language
 * Helping students to better understand the course materials
