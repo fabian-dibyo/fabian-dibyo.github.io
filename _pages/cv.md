@@ -19,8 +19,7 @@ Education
 
 Work experience
 ======
-* September 2019 to December 2020: Student Tutor
-  * Department of Computer Science and Engineering, BRAC University
+* Student Tutor, Department of Computer Science and Engineering, BRAC University (September 2019 to December 2020)
   
 Skills
 ======
