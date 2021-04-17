@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[View more details in pdf format.](https://drive.google.com/file/d/1akOl3aRkZYpRiy6Izb4HEZphGKQCNa43/view)
+
 Education
 ======
 * Bachelor of Science in Computer Science and Engineering, BRAC University, 2021
@@ -52,25 +54,3 @@ Research Interests
 * Artificial Intelligence
 * Deep Learning
 * Optimization Algorithms
-  
-#Publications
-#======
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
-#Talks
-#======
-#  <ul>{% for post in site.talks %}
-#    {% include archive-single-talk-cv.html %}
-#  {% endfor %}</ul>
-  
-#Teaching
-#======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams
