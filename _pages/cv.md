@@ -19,9 +19,9 @@ Education
 
 Work experience
 ======
-* Student Tutor  
+* [Student Tutor]{https://fabian-dibyo.github.io//teaching/1_ST_BRACU}  
   Department of Computer Science and Engineering, BRAC University  
-  (September 2019 to December 2020)  
+  September 2019 to December 2020  
   
 Skills
 ======
