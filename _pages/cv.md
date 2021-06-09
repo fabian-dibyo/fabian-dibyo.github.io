@@ -13,6 +13,7 @@ redirect_from:
 
 Education
 ======
+* Master of Science in Computer Science and Engineering, BRAC University, Ongoing
 * Bachelor of Science in Computer Science and Engineering, BRAC University, 2021
 * Higher Secondary Certificate, Notre Dame College, 2016
 * Secondary School Certificate, Civil Aviation High School, 2014
