@@ -20,11 +20,11 @@ Education
 
 Work Experience
 ======
-* <a href="https://fabian-dibyo.github.io//teaching/2_ContractualLecturer_BRACU" target="_blank">Contractual Lecturer</a
+* <a href="https://fabian-dibyo.github.io//teaching/2_ContractualLecturer_BRACU" target="_blank">Contractual Lecturer</a>
   Department of Computer Science and Engineering, BRAC University  
   June 2021 to Present 
 
-* <a href="https://fabian-dibyo.github.io//teaching/1_StudentTutor_BRACU" target="_blank">Student Tutor</a
+* <a href="https://fabian-dibyo.github.io//teaching/1_StudentTutor_BRACU" target="_blank">Student Tutor</a>
   Department of Computer Science and Engineering, BRAC University  
   September 2019 to December 2020  
   
