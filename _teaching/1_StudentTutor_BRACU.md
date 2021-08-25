@@ -2,7 +2,7 @@
 title: "Student Tutor"
 collection: teaching
 type: "Part-time"
-permalink: /teaching/1_Student Tutor_BRACU
+permalink: /teaching/1_StudentTutor_BRACU
 venue: "Department of Computer Science and Engineering, BRAC University"
 date: 2019-09-26
 location: "Dhaka, Bangladesh"
