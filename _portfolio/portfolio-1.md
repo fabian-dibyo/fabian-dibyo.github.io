@@ -4,7 +4,7 @@ excerpt: "Simple Database Project on Vehicle Management and Rental System"
 collection: portfolio
 ---
 
-[Click Here](https://vmrs-cse370.herokuapp.com/){target="_blank"} to run this project.
+<a href="https://vmrs-cse370.herokuapp.com/" target="_blank"> to run this project.
 
 This is a project built by me along with two of my groupmates [Shafqat Hasan](https://github.com/shafhasan) and [Hasnat Md. Abdullah](https://github.com/Hasnat79) for the Database Systems course of my university. It is built on the concepts of **CRUD**, where all the four operations can be successfully completed using this system. The core functionality of this system is for customers to book vehicles according to their necessity. It also features some functionalities for the owners or the administrative personnel of the company. Login for both types of users are available. The customers can book a vehicle by providing their **name, address, email, phone, departure date, destination** and **the vehicle they want to book**. Before that, they must be a registered user and they will have to login each time they want to use the system. <br />
 <br />
