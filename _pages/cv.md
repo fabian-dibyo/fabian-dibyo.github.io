@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[View more details in pdf format.](https://drive.google.com/file/d/1akOl3aRkZYpRiy6Izb4HEZphGKQCNa43/view)
+<a href="https://drive.google.com/file/d/1akOl3aRkZYpRiy6Izb4HEZphGKQCNa43/view" target="_blank">Click here</a> to view more details in pdf format.
 
 Education
 ======
